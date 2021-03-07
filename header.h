@@ -1,4 +1,3 @@
-sjejcuekdeurucjeridid
-rididiire8ediideirid
+#ifndef PRO_GUNDAM
+#define PRO_GUNDAM
 
-rididiid
